@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Dec 08 17:11:47 BRST 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SCAN.jar
+manifest.mergeall=true
+manifest.mainclass=br.com.AngloAmericano.SCANFaa.main.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
